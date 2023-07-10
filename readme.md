@@ -23,7 +23,7 @@ The 3D Box project is a simple web application that showcases a 3D box made of m
 
 ## Screenshot
 
-![Alt Text](<>)
+![Alt Text](./assets/images/3d-box-gif.png)
 
 ## Demo
 
