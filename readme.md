@@ -1,6 +1,4 @@
-# Project Name
-
-Give your project a meaningful name.
+# 3D Box
 
 ## Table of Contents
 
@@ -16,42 +14,45 @@ Give your project a meaningful name.
 
 ## Links
 
-- Solution URL: [GitHub Repository](https://github.com/your-username/your-repo)
-- Live Demo: [Live Demo URL](https://your-project-live-demo-url.com)
+- Solution URL: [GitHub Repository](https://github.com/aruntutter/3d-box)
+- Live Demo: [Live Demo URL](https://aruntutter.github.io/3d-box/)
 
 ## Description
 
-Provide a brief description of your project, highlighting its main purpose and features.
+The 3D Box project is a simple web application that showcases a 3D box made of multiple smaller boxes. Clicking the "magic🎩" button toggles a transformation that rotates the box.
 
 ## Screenshot
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Alt Text](<>)
 
 ## Demo
 
-Include a link to a live demo of your project, if available. You can use services like GitHub Pages, Netlify, or Heroku to host your project.
+You can see a live demo of the 3D Box project [here](https://sprightly-dieffenbachia-057c35.netlify.app).
 
 ## Features
 
-List the main features and functionalities of your project. You can use bullet points or a numbered list.
+- Clicking the "magic🎩" button rotates the 3D box.
+- The box is constructed using smaller boxes, creating a 3D effect.
+- Responsive design to adapt to different screen sizes.
 
 ## Technologies Used
 
-Mention the technologies, tools, and frameworks used in your project. For example:
-
 - HTML
 - CSS
-- Flexbox
+- FlexBox
 - JavaScript
 
 ## Usage
 
-Explain how to use your project. You can provide code examples, screenshots, or even GIFs to demonstrate its usage.
+- Open the index.html file in your preferred web browser.
+- Click the "magic🎩" button to see the box rotate.
 
 ## What I Learned
 
-Share what you learned while working on this project. You can mention any new concepts, techniques, or insights gained through the development process. This section can be valuable for personal reflection and to showcase your growth as a developer.
+Implementing a 3D effect using multiple smaller boxes.
+Toggling CSS classes to apply transformations.
+Working with event listeners to handle button clicks.
 
 ## Contributing
 
-Indicate if you're open to contributions and how others can contribute to your project. You can mention things like submitting bug reports, suggesting new features, or submitting pull requests.
+Contributions are welcome! If you find any issues or have suggestions for improvements, please submit a pull request. Bug reports and feature requests are also appreciated.
